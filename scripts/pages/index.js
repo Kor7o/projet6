@@ -3,22 +3,22 @@
         // mais il sera à remplacer avec une requête sur le fichier JSON en utilisant "fetch".
         let photographers = [
             {
-                "name": "Ma data test",
-                "id": 1,
-                "city": "Paris",
-                "country": "France",
-                "tagline": "Ceci est ma data test",
-                "price": 400,
-                "portrait": "EllieRoseWilkens.jpg"
+                "name": "Mimi Keel",
+			    "id": 243,
+			    "city": "London",
+			    "country": "UK",
+			    "tagline": "Voir le beau dans le quotidien",
+			    "price": 400,
+			    "portrait": "MimiKeel.jpg"
             },
             {
-                "name": "Autre data test",
-                "id": 2,
-                "city": "Londres",
-                "country": "UK",
-                "tagline": "Ceci est ma data test 2",
-                "price": 500,
-                "portrait": "account.png"
+                "name": "Ellie-Rose Wilkens",
+			    "id": 930,
+			    "city": "Paris",
+			    "country": "France",
+			    "tagline": "Capturer des compositions complexes",
+			    "price": 250,
+			    "portrait": "EllieRoseWilkens.jpg"
             },
         ]
         // et bien retourner le tableau photographers seulement une fois récupéré
