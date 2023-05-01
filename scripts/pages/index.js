@@ -9,7 +9,7 @@
                 "country": "France",
                 "tagline": "Ceci est ma data test",
                 "price": 400,
-                "portrait": "account.png"
+                "portrait": "EllieRoseWilkens.jpg"
             },
             {
                 "name": "Autre data test",
@@ -34,7 +34,7 @@
             const userCardDOM = photographerModel.getUserCardDOM();
             photographersSection.appendChild(userCardDOM);
         });
-    };
+    }; 
 
     async function init() {
         // Récupère les datas des photographes
